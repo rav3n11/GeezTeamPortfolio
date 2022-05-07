@@ -58,8 +58,8 @@ sr.reveal('.scroll_for_more',{interval: 200});
 
 /*===== AUTO CAROUSEL =====*/
 counter = 1
-// setInterval(() => {
-//     document.getElementById("radio" + counter).checked = true
-//     counter ++
-//     if(counter > 5)  counter = 1
-// }, 7000)
+setInterval(() => {
+    document.getElementById("radio" + counter).checked = true
+    counter ++
+    if(counter > 5)  counter = 1
+}, 10000)

@@ -325,12 +325,31 @@ img {
   width: 95%;
 }
 
+.skills__react {
+  width: 75%;
+}
+
+.skills__flutter {
+  width: 55%;
+}
+
+.skills__databases {
+  width: 95%;
+}
+
 .skills__css {
+  width: 85%;
+}
+
+.skills__networking {
   width: 85%;
 }
 
 .skills__js {
   width: 65%;
+}
+.skills__105 {
+  width: 105%;
 }
 
 .skills__ux {

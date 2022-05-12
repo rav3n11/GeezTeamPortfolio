@@ -729,6 +729,14 @@ img {
   top: 300px;
   opacity: 50%;
 }
+.arrow{
+  width: 30px;
+  border-radius: 15px;
+  position: absolute;
+  right: 100px;
+  top: 300px;
+  opacity: 50%;
+}
 .scroll{  
   text-align: center;
   font-size: x-small;
